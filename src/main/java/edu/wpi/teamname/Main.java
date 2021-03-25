@@ -20,6 +20,7 @@ public class Main {
     System.out.println("Nathan Rogers");
     System.out.println("Alec Kneedler");
     System.out.println("Jonathan Palmieri");
+    System.out.println("John Prominski");
 
   }
 }
